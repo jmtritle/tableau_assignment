@@ -4,7 +4,7 @@
 
 # Analysis
 
-Data: 2019 Citi Bike System Data (all data available <a href="https://www.citibikenyc.com/system-data">here</a>
+Data: 2019 Citi Bike System Data (all data available <a href="https://www.citibikenyc.com/system-data">here</a>)
 
 * Bike users were predominantly male. 
 * Most users were in their thirties or early forties.
